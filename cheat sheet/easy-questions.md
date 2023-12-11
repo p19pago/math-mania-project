@@ -51,16 +51,16 @@ These categories are:
 
       (68, 76, 88, 90, 99)
 
-* Find the wrong entry in the sequences below.
+* Find the mistake in the sequences below.
 
        i. 7, 17, 27, 47, 57, 77, 97
        ii. 79, 77, 75, 72, 70, 69, 66 
 
-* Find the wrong entry in the sequences below and correct it.
+* Find the mistake in the sequences below and correct it.
 
-       5, 10, 15, 25, 30, 35
-       47, 45, 43, 40, 38
-       26, 46, 56, 86
+       i. 5, 10, 15, 25, 30, 35
+       ii. 47, 45, 43, 40, 38
+       iii. 26, 46, 56, 86
 
 * Define the multiplication table products of the numbers below.
 
@@ -80,8 +80,84 @@ These categories are:
 
 * How many numbers will I encounter by one, on the examples below?
        
-      i.
+      i. 150 to 189
+      ii. 688 to 701
+
+* Which number is the result when I subtract 2 from 500?
+* What is the definition of parallel lines in geometry?
+* How many digits does the number 1000 have?
+* Analyze the numbers below into hundreds, tens and units using sum.
+
+      i. 245
+      ii. 536
+      iii. 405
+      iv. 777
+
+* Analyze the numbers below into thousands, hundreds, tens and units.
+
+       i. 1100
+       ii. 1500
+       iii. 3500
+       iv. 2023
+       v. 2024
+
+* Analyze the numbers below into product sum.
+      
+      i. 356
+      ii. 735
+      iii. 89
+      iv. 580
+      v. 333
+      vi. 462
+ 
+* Analyze the numbers below into thousands, hundreds, tens and units using words.
+      
+      i.1230
+      ii. 1500
+      iii. 1453
+      iv. 2010
+      v. 1990
+      vi. 1987
+      vii. 2023
+      viii. 2888
+  
+* Analyze the numbers below into thousands, hundreds, tens and units using sum.
+
+      i. 1739
+      ii. 1876
+      iii. 3600
+      iv. 2080
+
+* Which number is greater than 4?
+
+      i. 5
+      ii. -5,
+      iii. -1/2
+      iv. -25.
+
+* Analyze the fractions below.
+
+      i. 1/4
+      ii. 1/2
+      iii. 1/7
+      iv. 1/8
+      v. 1/3
+      vi. 1/5
+
+* Specify the definition of *fraction* .
+* What is the definition of *numerator* ?
+* What is the definition of *denominator* ?
+* Are the fractions below equal to each other?
+      
+      1/2 , 2/4 , 4/8
+
 * 
+* Which number is the smallest?
+
+      i. -1
+      ii. -1/2
+      iii. 0
+      iv. 3
 
 (will be added...)
 
@@ -118,8 +194,22 @@ These categories are:
       (65, 68, 71, 74, 77, ..., ..., ..., ..., ..., ..., 98, add 3)
       (65, 63, 61, 59, ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., 31, subtract 2)
 
-* d
+* Complete the sequences below and find the mistake.
+
+      i. 20, 120, 220, 330, ..., ..., ..., ..., ..., ..., ..., 920
+      ii. 980, 975, 950, 965, 960, ..., ..., ..., 940, ..., ..., 925
+
+* Complete the products below.
+
+      i. ... x 100 = 700
+      ii. ... x 100 = 1000
+      iii. ... x 1000 = 7000
+      iv. ... x 1000 = 10000
+      v. ... x 500 = 2500
+      vi. ... x 500 = 4000
+
 * e
+* 
 * 
 
 # Calculation Questions
@@ -145,6 +235,17 @@ These categories are:
       i. 4*5, 3*4, 8*2, 4*6
       ii. 2*(2*5), 8*2, 4*3, 2*(2*6)
 
+* Calculate the sums below.
+
+      i.300 + 20 + 6
+      ii. 400 + 80 + 5
+      iii. 700 + 40 + 9
+      iv. 800 + 3
+      v. 900 + 60
+      
+* Calculate the divisions below.
+
+      i.
 * 
 * 
 * 
@@ -160,7 +261,9 @@ These categories are:
 * In every nest on the tree, there are 3 birds. The tree consists of 4 nests. How many birds are there on the tree?
 * There are 32 cookies on the jar. I got half of them, and so did my brother. How many cookies did each of us get?
 * I had 52 euros on my wallet. I bought a book with half my pocket money. How much money remained?
-* 20 children ate 2 cookies each, how many did they eat?
+* 20 children ate 2 cookies each. How many did they eat?
+* I want to purchase balloons for my birthday. One balloon at the local balloon store costs 3 euros. I have 25 euros.
+How many balloons will I purchase? How much money will remain?
 * 
 
 (will be added...)
