@@ -62,8 +62,25 @@ These categories are:
        47, 45, 43, 40, 38
        26, 46, 56, 86
 
-* d
-* d
+* Define the multiplication table products of the numbers below.
+
+       i. 2
+       ii. 4
+
+* Define the multiplication table products of the numbers below.
+
+       i. 2
+       ii. 5
+       iii. 7
+
+* Analyze the numbers below into smaller products.
+
+       i. 48
+       ii. 24
+
+* How many numbers will I encounter by one, on the examples below?
+       
+      i.
 * 
 
 (will be added...)
@@ -101,7 +118,8 @@ These categories are:
       (65, 68, 71, 74, 77, ..., ..., ..., ..., ..., ..., 98, add 3)
       (65, 63, 61, 59, ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., 31, subtract 2)
 
-* 
+* d
+* e
 * 
 
 # Calculation Questions
@@ -122,7 +140,11 @@ These categories are:
 
       (4-2, 14-2, 8-4, 18-4, 9-5, 19-5)
 
-* Calculate
+* Calculate the products below.
+
+      i. 4*5, 3*4, 8*2, 4*6
+      ii. 2*(2*5), 8*2, 4*3, 2*(2*6)
+
 * 
 * 
 * 
@@ -138,6 +160,7 @@ These categories are:
 * In every nest on the tree, there are 3 birds. The tree consists of 4 nests. How many birds are there on the tree?
 * There are 32 cookies on the jar. I got half of them, and so did my brother. How many cookies did each of us get?
 * I had 52 euros on my wallet. I bought a book with half my pocket money. How much money remained?
+* 20 children ate 2 cookies each, how many did they eat?
 * 
 
 (will be added...)
