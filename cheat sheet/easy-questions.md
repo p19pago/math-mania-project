@@ -51,17 +51,6 @@ These categories are:
 
       (68, 76, 88, 90, 99)
 
-* Find the mistake in the sequences below.
-
-       i. 7, 17, 27, 47, 57, 77, 97
-       ii. 79, 77, 75, 72, 70, 69, 66 
-
-* Find the mistake in the sequences below and correct it.
-
-       i. 5, 10, 15, 25, 30, 35
-       ii. 47, 45, 43, 40, 38
-       iii. 26, 46, 56, 86
-
 * Define the multiplication table products of the numbers below.
 
        i. 2
@@ -86,48 +75,6 @@ These categories are:
 * Which number is the result when I subtract 2 from 500?
 * What is the definition of parallel lines in geometry?
 * How many digits does the number 1000 have?
-* Analyze the numbers below into hundreds, tens and units using sum.
-
-      i. 245
-      ii. 536
-      iii. 405
-      iv. 777
-
-* Analyze the numbers below into thousands, hundreds, tens and units.
-
-       i. 1100
-       ii. 1500
-       iii. 3500
-       iv. 2023
-       v. 2024
-
-* Analyze the numbers below into product sum.
-      
-      i. 356
-      ii. 735
-      iii. 89
-      iv. 580
-      v. 333
-      vi. 462
- 
-* Analyze the numbers below into thousands, hundreds, tens and units using words.
-      
-      i.1230
-      ii. 1500
-      iii. 1453
-      iv. 2010
-      v. 1990
-      vi. 1987
-      vii. 2023
-      viii. 2888
-  
-* Analyze the numbers below into thousands, hundreds, tens and units using sum.
-
-      i. 1739
-      ii. 1876
-      iii. 3600
-      iv. 2080
-
 * Which number is greater than 4?
 
       i. 5
@@ -151,6 +98,15 @@ These categories are:
       
       1/2 , 2/4 , 4/8
 
+* What happens when you divide a number by 10?
+* What happens when you multiply a number by 10?
+* What happens when you divide a number by 100?
+* What happens when you multiply a number by 100?
+* How are *decimal fractions* defined under?
+* w
+* 
+* e
+* 
 * 
 * Which number is the smallest?
 
@@ -208,8 +164,30 @@ These categories are:
       v. ... x 500 = 2500
       vi. ... x 500 = 4000
 
-* e
-* 
+* Complete the decimal fractions below.
+
+      i. 54/100 = .../100 + .../100 -> .../10 + .../100
+      ii. 728/100 = .../100 + .../100 + .../100 -> ... + .../10 + .../100
+      i. 38/10 = .../10 + .../10 -> ... + .../10
+
+* Complete the decimal fractions below.
+
+      i. 5/10 + 3/10 + 14/10 = .../10 -> ... + .../10
+      ii. 7/10 + 9/100 = .../100
+
+* Which one is greater? Complete the sequence.
+
+     > Options given: 
+     > 3.40, 0.9, 1.9, 5.01, 5.23, 0.09, 3.04
+
+      5.23 > ... > ... > ... > ... > ... > ...
+
+* Complete the numbers in between.
+
+      ... < 246 < ...
+      ... < 389 < ...
+      ... < 389 < ...
+
 * 
 
 # Calculation Questions
@@ -243,9 +221,96 @@ These categories are:
       iv. 800 + 3
       v. 900 + 60
       
-* Calculate the divisions below.
+* Calculate the operations below.
 
-      i.
+      (1354+1287, 2623-1358, 2673-1256, 2740-1365)
+
+* Calculate the decimal fractions below.
+
+      (325/10, 78/100, 2479/1000, 546/100, 16/10, 3/10, 670/10, 5/100, 54/1000, 7/1000)
+
+* Convert the decimal fractions below into decimals.
+
+      (47/10, 106/10, 243/10, 47/100, 243/100, 106/1000, 47/1000, 106/100, 243/1000)
+
+* Convert the decimals below into decimal fractions.
+
+      (4.25, 0.17, 0.2, 23.26, 3.06, 0.705, 28.06, 0.007)
+
+* Calculate the operations using decimals below.
+
+      (52.4 + 23.8, 24.35 + 18.23, 34.7 - 16.3)
+
+* Perform the operations below.
+
+      (27:3, 30:3, 68:34, 36:6, 45:5, 60:4, 70:7, 900:10, 34*2, 15*4)
+
+* Complete the divisions below and check if there is modulo and remainder.
+
+      (27:6, 44:5, 56:7, 18:4, 40:6, 87:9)
+
+* Analyze the numbers below into hundreds, tens and units using sum.
+
+      i. 245
+      ii. 536
+      iii. 405
+      iv. 777
+
+* Analyze the numbers below into thousands, hundreds, tens and units.
+
+       i. 1100
+       ii. 1500
+       iii. 3500
+       iv. 2023
+       v. 2024
+
+* Analyze the numbers below into product sum.
+      
+      i. 356
+      ii. 735
+      iii. 89
+      iv. 580
+      v. 333
+      vi. 462
+ 
+* Analyze the numbers below into thousands, hundreds, tens and units using words.
+      
+      i.1230
+      ii. 1500
+      iii. 1453
+      iv. 2010
+      v. 1990
+      vi. 1987
+      vii. 2023
+      viii. 2888
+  
+* Analyze the numbers below into thousands, hundreds, tens and units using sum.
+
+      i. 1739
+      ii. 1876
+      iii. 3600
+      iv. 2080
+
+* Analyze the numbers below.
+
+      (157.04, 83.047, 0.38, 7.002, 0.072, 234.063)
+
+* Find the mistake in the sequences below.
+
+       i. 7, 17, 27, 47, 57, 77, 97
+       ii. 79, 77, 75, 72, 70, 69, 66 
+
+* Find the mistake in the sequences below and correct it.
+
+       i. 5, 10, 15, 25, 30, 35
+       ii. 47, 45, 43, 40, 38
+       iii. 26, 46, 56, 86
+* e
+* 
+* 
+* 
+* e
+* 
 * 
 * 
 * 
@@ -264,6 +329,17 @@ These categories are:
 * 20 children ate 2 cookies each. How many did they eat?
 * I want to purchase balloons for my birthday. One balloon at the local balloon store costs 3 euros. I have 25 euros.
 How many balloons will I purchase? How much money will remain?
+* 5 students removed 42 books from the bookcase. How many books will they get, after each one decides to share them?
+* A group of children gathered 65 shells and want to share them. How many shells each child will get?
+* e
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* e
 * 
 
 (will be added...)
