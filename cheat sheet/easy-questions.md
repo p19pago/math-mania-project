@@ -103,9 +103,26 @@ These categories are:
 * What happens when you divide a number by 100?
 * What happens when you multiply a number by 100?
 * How are *decimal fractions* defined under?
-* w
+* Analyze number 10000 into smaller sums.
+* Analyze number 20000 into smaller sums.
+* Which is the smallest 5-digit number that can be created using the digits 1, 3, 5, 7, and 8?
+* How much is 8999 + 1?
+* What is the double product of number 3500?
+* Which operations are called *inverse operations* ?
+* What is the definition of *Euclidean division* operation?
+* Is the *Euclidean division* operation efficient enough to calculate modulus and remainder?
+* What is the definition of perpendicular lines in geometry?
+* What property do perpendicular lines have?
+* What is the definition of distance between lines?
+* What features does a square have?
+* Which formula uses the area of a rectangle?
+* Which formula uses the area of a square?
+* Analyze number 100000 into thousands, hundreds, tens and units.
+* Analyze number 200000 into thousands, hundreds, tens and units.
 * 
-* e
+* 
+* 
+* 
 * 
 * 
 * Which number is the smallest?
