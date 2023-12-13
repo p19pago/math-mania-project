@@ -127,7 +127,19 @@ These categories are:
 * How much is one minute in hours?
 * How much is one second in minutes?
 * Which geometrical shapes from the options below are included in the category of solid or three-dimensional shapes?
-* 
+* Which numbers are defined as natural numbers?
+* Which numbers are called even numbers?
+* Which numbers are called odd numbers?
+* Which number follows after 1000?
+* Which number follows before 10000?
+* Specify the formula of *sum of 2 numbers* .
+* Specify the formula of *difference between 2 numbers* .
+* What should the last digit of a number divisible by 2 be?
+* What should the last digit of a number divisible by 5 be?
+* What should the last digit of a number divisible by 10 be?
+* What happens if a number is divisible by 3?
+* What happens if a number is divisible by 9?
+* Which formula specifies Euclidean division?
 * Which number is the smallest?
 
       i. -1
