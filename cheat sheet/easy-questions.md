@@ -124,8 +124,9 @@ These categories are:
 * Which number is 60*8 equal to?
 * How much in minutes is one hour?
 * How much in seconds is one minute?
-* How much 
-* 
+* How much is one minute in hours?
+* How much is one second in minutes?
+* Which geometrical shapes from the options below are included in the category of solid or three-dimensional shapes?
 * 
 * Which number is the smallest?
 
