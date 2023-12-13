@@ -21,15 +21,23 @@ These categories are:
 
 ### Knowledge Questions
 
-* Which numbers are defined as natural numbers?
+* Which symbol represents natural numbers as a whole?
 * Which numbers are called even numbers?
 * Which numbers are called odd numbers?
-* 
-* 
-* 
-* 
-* 
-* 
+* Which three numbers are followed before 289?
+* Place the numbers below in ascending running order.
+
+       3515, 4800, 3620, 3508, 4801
+
+* Round the numbers below up and down to the nearest hundred.
+
+      345, 761, 659, 2567, 9532, 123564, 34564, 31549, 8765.
+
+* How is the *a + b = b + a* property called in addition?
+* How is the *a + b + c = a + (b + c) = (a + b) + c* property called in addition?
+* How much is 52 * 100?
+* How is the product a * a * a ... * a represented as?
+* What does a^2 represent?
 * 
 * 
 * 
