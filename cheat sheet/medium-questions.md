@@ -22,7 +22,8 @@ These categories are:
 ### Knowledge Questions
 
 * Which numbers are defined as natural numbers?
-* 
+* Which numbers are called even numbers?
+* Which numbers are called odd numbers?
 * 
 * 
 * 
