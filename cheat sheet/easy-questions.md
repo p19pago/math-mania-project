@@ -22,8 +22,8 @@ These categories are:
 ### Knowledge Questions
 
 * How many angles does a triangle have?
-* How many numbers build up the sum of number 5?
-* Which geometrical shapes build up the category of basic shapes?
+* Which numbers build up the sum of number 5?
+* Which geometrical shapes from the options below are included in the category of basic shapes?
 * How many sides does a rectangle have?
 * What symbol is used for the addition arithmetic operation?
 * Which number makes the double of 2?
@@ -120,9 +120,11 @@ These categories are:
 * Analyze number 100000 into thousands, hundreds, tens and units.
 * Analyze number 200000 into thousands, hundreds, tens and units.
 * Is 53 multiple of 3? How much modulo remains?
-* 
-* 
-* 
+* How much is the result of 121 divided by 11?
+* Which number is 60*8 equal to?
+* How much in minutes is one hour?
+* How much in seconds is one minute?
+* How much 
 * 
 * 
 * Which number is the smallest?
