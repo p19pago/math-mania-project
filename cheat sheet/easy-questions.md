@@ -119,7 +119,7 @@ These categories are:
 * Which formula uses the area of a square?
 * Analyze number 100000 into thousands, hundreds, tens and units.
 * Analyze number 200000 into thousands, hundreds, tens and units.
-* 
+* Is 53 multiple of 3? How much modulo remains?
 * 
 * 
 * 
