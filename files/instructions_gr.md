@@ -1,4 +1,4 @@
-## Math Mania - Instructions ##
+## Math Mania - Οδηγίες ##
 
 ##### [GR & EN]
 
