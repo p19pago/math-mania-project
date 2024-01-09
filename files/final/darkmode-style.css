@@ -1,0 +1,353 @@
+/* External CSS file which will feature all styles used on and customized for the website where the application is located */
+
+/* asterisk (*) symbol, style for global elements */
+
+*{
+	font-family: Trebuchet MS;
+}
+
+/* HTML body tag styles */
+
+body{
+	background-color: #1a1a1a;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* main menu container styles */
+
+.main-menu-container{
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+	width: 50%;
+	margin-top: 100px;
+	border: 3px solid #6cb6ff;
+	box-shadow: 4px 2px 4px 2px #6cb6ff;
+	background-color: #6cb6ff;
+}
+
+/* menu header styles  */
+
+#menu-header{
+	font-size: 20px;
+}
+
+/* menu description styles  */
+
+#menu-description{
+	font-size: 14px;
+}
+
+/* buttons container styles */
+
+.buttons-container{
+	padding: 10px;
+	margin: auto;
+	display: block;
+	background-color: transparent;
+}
+
+/* menu buttons styles */
+
+.menu-btn{
+	cursor: pointer;
+	font-weight: bold;
+	margin: auto;
+	/* display: block; */
+	border: none;
+	outline: none;
+	padding: 20px;
+	width: 50%;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	background-color: #9fd2ff;
+	box-shadow: 6px 4px 6px #9fd2ff;
+}
+
+/* when hovered */
+
+.menu-btn:hover{
+	background-color: #4593f5b2;
+	transition: 0.2s;
+}
+
+/* when active */
+
+.menu-btn:active{
+	background-color: #4593f5b2;
+}
+
+/* when focused */
+
+.menu-btn:focus{
+	background-color: #4593f5b2;
+}
+
+/* credits comment styles  */
+
+#credits-comment{
+	font-size: 12px;
+	font-style: italic;
+}
+
+/* link styles  */
+
+#links{
+	list-style-type: none;
+	font-size: 12px;
+}
+
+/* link styles; selects only the a element (stands for anchor text) */
+
+#links a{
+	text-decoration: none;
+	display: inline;
+	color: aliceblue;
+	text-transform: lowercase;
+	font-weight: bold;
+}
+
+/* quiz container styles */
+
+.quiz-container{
+	display: none;
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+	width: 50%;
+	margin-top: 100px;
+	border: 3px solid #6cb6ff;
+	box-shadow: 4px 2px 4px 2px #6cb6ff;
+	background-color: #6cb6ff;
+}
+
+/* score panel styles */
+
+.score-panel{
+	padding: 5px;
+	display: none;
+	text-align: center;
+}
+
+/* score variable styles */
+
+/* will be styled separately as it is different from the score panel */
+
+#score{
+	padding: 5px;
+}
+
+/* questions styles */
+
+/* will be styled separately */
+
+#questions{
+	padding: 10px;
+	/* display: none; */
+	text-align: center;
+}
+
+/* question text style */
+
+#question-text{
+	font-size: 14px;
+    font-weight: bold;
+	padding: 5px;
+	text-align: center;
+}
+
+/* options container style */
+
+.options-container{
+	display: block;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+/* question options style */
+
+.question-options{
+	cursor: pointer;
+	margin: auto;
+	margin-left: 10px;
+	display: inline-block;
+	border: none;
+	outline: none;
+	padding: 15px;
+	width: 40%;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	background-color: #9fd2ff;
+	box-shadow: 6px 4px 6px #9fd2ff;
+	font-size: 13px;
+	box-sizing: border-box;
+}
+
+/* when active */
+
+.question-options:active{
+	background-color: #4593f5b2;
+	box-shadow: 6px 4px 6px #4593f5c4;
+}
+
+/* when hovered */
+
+.question-options:hover{
+	background-color: #4593f5b2;
+	box-shadow: 6px 4px 6px #4593f5c4;
+}
+
+/* when focused */
+
+.question-options:focus{
+	background-color: #4593f5b2;
+	box-shadow: 6px 4px 6px #4593f5c4;
+}
+
+/* style for skip question comment */
+
+#skip-comment{
+	font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* result styles */
+
+#result{
+	padding: 5px;
+	margin: auto;
+	display: block;
+}
+
+/* message inside the result container style */
+
+#message{
+	padding: 10px;
+	font-weight: bold;
+}
+
+/* any necessary action button styles */
+
+.action-btn{
+	cursor: pointer;
+	font-weight: bold;
+	/* margin: auto; */
+	/* display: block; */
+	border: none;
+	outline: none;
+	padding: 20px;
+	width: 24%;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	background-color: #9fd2ff;
+	box-shadow: 6px 4px 6px #9fd2ff;
+}
+
+/* when active */
+
+.action-btn:active{
+	background-color: #4593f5b2;
+}
+
+/* when hovered */
+
+.action-btn:hover{
+	background-color: #4593f5b2;
+	transition: 0.2s;
+}
+
+/* when focused */
+
+.action-btn:focus{
+	background-color: #4593f5b2;
+}
+
+/* settings container styles */
+
+.settings-container{
+	display: none;
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+	width: 50%;
+	margin-top: 100px;
+	border: 3px solid #6cb6ff;
+	box-shadow: 4px 2px 4px 2px #6cb6ff;
+	background-color: #6cb6ff;
+}
+
+/* settings header styles */
+
+#settings-header{
+	font-size: 20px;
+}
+
+/* settings description style */
+
+#settings-description{
+	font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+/* settings comment style */
+
+#settings-comment{
+	font-size: 12px;
+    font-style: italic;
+	padding: 5px;
+}
+
+/* style only for dark mode button in settings container */
+
+#darkmode-btn{
+	display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+/* choose difficulty container styles */
+
+.choose-difficulty-container{
+	display: none;
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+	width: 50%;
+	margin-top: 100px;
+	border: 3px solid #6cb6ff;
+	box-shadow: 4px 2px 4px 2px #6cb6ff;
+	background-color: #6cb6ff;
+}
+
+/* difficulty header styles */
+
+#difficulty-header{
+	font-size: 20px;
+}
+
+/* difficulty buttons styles */
+
+.difficulty-buttons{
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+
+/* difficulty options container styles */
+
+.difficulty-options{
+	display: block;
+	padding: 10px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+/* radio buttons styles; selects only the input element with type value set to "radio" */
+
+input[type="radio"]{
+	margin: 5px;
+}

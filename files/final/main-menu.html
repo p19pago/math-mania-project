@@ -1,0 +1,287 @@
+<html>
+	
+	<!-- This is the main page of where the application will be defined, structured and developed. -->
+	<!-- The "index.html" page, will define the application main menu, as well as other components defining its functionality. -->
+	<!-- In this case, only HTML will be used!. -->
+	
+	<!-- A separate CSS file will be used for the styling. -->
+	<!-- use the HTML tag <link> to link it individually inside the same tag-->
+	
+	<!-- Similarly, external JavaScript files will be used for the user interface to be more interactive and user friendly;
+	customize its functionality on certain interactions triggered by the player -->
+	
+	<!-- use the HTML tag <script> to link it externally -->
+	
+	<!-- the HTML <head> tag contains the title of the page, as well as other necessary components,
+	such as linking and fetching the stylesheet from another file under the same directory -->
+	
+	<!-- it is a web app; meaning it will be handled by a webpage -->
+	
+	<head>
+		
+		<!-- The HTML <title> tag, will define the webpage title; in this case, either the app on the current running tab --> 
+		
+		<title> Math Mania - Welcome! </title>
+		
+		<!-- The <meta> HTML tag will use the <charset> attribute. -->
+		
+		<!-- This will define the website encoding; and avoid any encoding problems when run in another language -->
+		
+		<meta charset="UTF-8">
+		
+		<!-- The <meta> HTML tag, will be reused. -->
+		
+		<!-- It will be reused to feature two attributes. Each one, labeled as "name" and "content" in HTML -->
+		
+		<!-- In the attribute labeled under "name", it will be defined where the content will be accessible
+		(it is more effective for responsive designing, ie if used on a computer or on mobile phone.
+		Its value will be set to "viewport"-->
+		
+		<!-- In the attribute labeled under "content", it will be defined a much more detailed way to achieve responsive design;
+		either when resizing the browser window, or on phone browser.-->
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- The HTML <link> tag, in this case, will be used to fetch an external CSS file for the HTML structure styling. -->
+		
+		<!-- update 12/14/2023: add an "id" attribute inside the tag, so it could be easier for JavaScript to handle it;
+			especially if settings contain dark mode switch which has been added. -->
+		
+		<link id="theme-stylesheet" rel="stylesheet" href="app-style.css">
+		
+	</head>
+	
+	<!-- The HTML <body> tag, will define the website content. -->
+	
+	<!-- body contents -->
+	
+	<body>
+		
+		<!-- main menu structure code -->
+		
+		<!-- update 11/23/2023: It is required to use IDs inside HTML tags, as it is easier for JavaScript to handle them.
+			This appeals not only for the main menu container, below!
+			As well as containers following the same logic as the main menu one! -->
+			
+			<!-- stage for the second check-point (December 1st, 2023) -->
+		
+		<div class="main-menu-container" id="main-menu">
+			
+			<!-- menu header -->
+			
+			<h3 id="menu-header">
+				Welcome to Math Mania!
+			</h3>
+			
+			<!-- menu description -->
+			
+			<p id="menu-description">
+				Select one of the options below to continue.
+			</p>
+			
+			<!-- menu interface buttons -->
+			<!-- will define the menu interactivity when player clicks on one of the buttons below -->
+			
+			<!-- update 12/8/2023: no ID attribute will be used here! -->
+			
+			<div class="buttons-container">
+				
+				<!-- "New Game" button option; game will launch when player clicks on the button -->
+				
+				<button class="menu-btn" id="new-game-btn" onclick="startGame()"> New Game </button>
+				
+				<!-- "Settings" button option -->
+				
+				<!-- It will define general game settings, affecting player's experience in-game -->
+				
+				<button class="menu-btn" id="settings-btn" onclick="openSettings()"> Settings </button>
+				
+				<!-- "Select Difficulty" button option -->
+				
+				<!-- This button will define the game difficulty; whether the player selects to play easy, medium or hard questions. -->
+				
+				<button class="menu-btn" id="difficulty-btn" onclick="selectDifficulty()"> Select Difficulty </button>
+				
+				<!-- end of buttons container -->
+				
+			</div>
+			
+			<!-- Credits' comment is optional but mandatory; giving credit to the game creator. -->
+			
+			<h5 id="credits-comment">
+				a game created by: @p19pago
+			</h5>
+			
+			<!-- including links -->
+			
+			<ul id="links">
+				<a id="github-link" href="https://github.com/p19pago" target="_blank">GitHub</a>
+			</ul>
+			
+			<!-- end of main menu container -->
+			
+		</div>
+		
+		<!-- question container will define the content of each question when the game has started
+		(and options each) -->
+		
+		<!-- questions (and options) structure code -->
+		
+		<!-- update 11/23/2023: It is required to use IDs inside HTML tags, as it is easier for JavaScript to handle them.
+			This appeals not only for the main menu container, below!
+			As well as containers following the same logic as the main menu one! -->
+		
+		<!-- the quiz container will use ID with value "game-container", defining the game and all its components -->
+		
+		<div class="quiz-container" id="game-container">
+			
+			<!-- game score panel -->
+			<!-- score will show on screen -->
+			
+			<!-- update 12/1/2023: add ID attribute on score panel -->
+			
+			<div class="score-panel" id="score-panel">
+				
+				<!-- game score -->
+				<div id="score"></div>
+				
+				<!-- end of score panel container -->
+				
+			</div>
+			
+			<!-- game questions -->
+			<div class="questions" id="questions">
+				
+				<!-- update 01/02/2024: add question text and options -->
+				<!-- add question text first -->
+				
+				<p id="question-text"></p>
+				
+				<!-- update 01/03/2024: add options and store them in a separate container -->
+				<div class="options-container" id="options-container"></div>
+				
+				<!-- add a comment to skip question, if desired -->
+				<p id="skip-comment"> Skip question? (optional) </p>
+				
+				<!-- skip button, when player clicks on it, they skip a question and will be redirected to the next question -->
+				<button id="skip-btn" class="action-btn" onclick="skipQuestion()"> Skip </button>
+				
+			</div>
+			
+			<!-- game result, is displayed when the player completes the quiz with a message -->
+			<!-- congratulatory message, once they answer all questions -->
+			<!-- or failure message, once they fail all questions -->
+			
+			<div id="result" class="result">
+				<p id="message"></p>
+			</div>
+			
+			<!-- submit button, when player clicks on it, they will be redirected to the next question -->
+			<!-- <button id="submit-btn" class="action-btn" onclick="nextQuestion()"> Submit </button> -->
+			
+			<!-- retry button, when player clicks on it, they will be prompted to try again -->
+			<button id="retry-btn" class="action-btn" onclick="retryQuestion()"> Retry </button>
+			
+			<!-- return to main menu button, when player clicks on it, they will be prompted to return to the main menu -->
+			<button id="mainmenu-btn" class="action-btn" onclick="showMainMenu()"> Return to main menu </button>
+			
+			<!-- end of quiz container -->
+			
+		</div>
+		
+		<!-- settings container will define the game settings 
+		(in this case, settings are generic and will be applied to the game in general) -->
+		
+		<!-- game settings structure code -->
+		
+		<div class="settings-container" id="settings-container">
+			
+			<!-- settings contents -->
+			
+			<h3 id="settings-header">
+				General Settings
+			</h3>
+			
+			<!-- update 01/09/2024: add a description for the settings container -->
+			
+			<p id="settings-description">
+				General game settings. Modify or adjust them, based on your preferences.
+			</p>
+			
+			<!-- update 01/09/2024: add a comment for each functionality -->
+			<p id="settings-comment">
+				Use the button below to switch to dark mode.
+			</p>
+			
+			<!-- update 12/14/2023: add switch dark mode button to settings -->
+			<button id="darkmode-btn" class="action-btn"> Switch to dark mode </button>
+			
+			<!-- update 01/09/2024: add a comment for each functionality -->
+			<p id="settings-comment">
+				More settings will be added gradually!
+			</p>
+			
+			<!-- update 12/1/2023: update with a save button, which triggers a save changes event -->
+			<button id="save-btn" class="action-btn"> Save changes </button>
+			
+			<!-- return to main menu button, when player clicks on it, they will be prompted to return to the main menu -->
+			<button id="mainmenu-btn" class="action-btn" onclick="showMainMenu()"> Return to main menu </button>
+			
+			<!-- end of settings container -->
+			
+		</div>
+		
+		<!-- choose difficulty container will define the game diffculty, when a new game starts -->
+		<!-- choose difficulty structure code -->
+		
+		<div class="choose-difficulty-container" id="difficulty-container">
+			
+			<!-- choose difficulty contents -->
+			
+			<h3 id="difficulty-header">
+				Select difficulty
+			</h3>
+			
+			<!-- update 30/11/2023: add radio buttons for difficulty selection -->
+			
+			<div class="difficulty-buttons">
+				
+				<!-- radio button for difficulty value set to "Easy" -->
+				
+				<label class="difficulty-options">
+					<input type="radio" name="difficulty" id="easy" value="easy"> Easy
+				</label>
+				
+				<!-- radio button for difficulty value set to "Medium" -->
+				
+				<label class="difficulty-options">
+					<input type="radio" name="difficulty" id="medium" value="medium"> Medium
+				</label>
+				
+				<!-- radio button for difficulty value set to "Hard" -->
+				
+				<label class="difficulty-options">
+					<input type="radio" name="difficulty" id="hard" value="hard"> Hard
+				</label>
+				
+			</div>
+			
+			<!-- update 1/12/2023: update with a save button, which triggers a save difficulty event -->
+			<button id="save-btn" class="action-btn" onclick="saveDifficulty()"> Save difficulty </button>
+			
+			<!-- return to main menu button, when player clicks on it, they will be prompted to return to the main menu -->
+			<button id="mainmenu-btn" class="action-btn" onclick="showMainMenu()"> Return to main menu </button>
+			
+			<!-- end of choose difficulty container -->
+			
+		</div>
+		
+		<!-- In this part, the external JavaScript file will be called,
+		which will define the game functionality and interactivity -->
+		
+		<script src="./game-script.js"></script>
+		
+		<!-- end of body -->
+		
+	</body>
+</html>
