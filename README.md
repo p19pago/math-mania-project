@@ -60,11 +60,31 @@ Dark Mode:
 ## Where can I find useful files for the game?
 
 On the repository's main page, the `Files` folder includes all you need to have to run the game on your own machine.
+
 Once you're located into the `Files` folder, the `final` subfolder features all necessary files as for the final version of the game.
 
 ## How to download files?
 
-### Method 1: Download the Repository
+### Method 1: Download the Repository from 'Main' branch
 
+The first page encountered is the `main` branch of the repository, where the `README.md` file is located.
 
+Next to the `About` widget, on the left side, you'll see the `Code` button which looks like this.
+
+![image](https://github.com/p19pago/math-mania-project/assets/72542408/00ecbca8-e43e-419b-b305-5af3bb4d58f6)
+
+Once you click on the button, the options look like this.
+
+*(Local tab)*
+
+![image](https://github.com/p19pago/math-mania-project/assets/72542408/a0fc749b-6b97-45c1-b280-5ff69ea428ec)
+
+Select `Download ZIP` to get a .ZIP file of the repository as a copy.
+
+The downloaded ZIP file will show up on your `Downloads` folder on your machine.
+
+Drag it to a desired directory `(usually on documents or on desktop)` or create your own directory.
+Once done both ways, unzip or extract it, depending on your unzipping program.
+
+**IMPORTANT: Consider extracting it on your downloads folder, once it's been extracted, the output shows a folder!!!**
 (apply all necessary changes 
